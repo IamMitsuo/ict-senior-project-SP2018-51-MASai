@@ -1,0 +1,3 @@
+[submodule "masai-api-server"]
+	path = masai-api-server
+	url = https://github.com/IamMitsuo/masai-api-server
