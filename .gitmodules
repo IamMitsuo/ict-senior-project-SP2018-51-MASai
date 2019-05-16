@@ -4,3 +4,6 @@
 [submodule "masai-box"]
 	path = masai-box
 	url = https://github.com/IamMitsuo/masai-box
+[submodule "MASai-Application"]
+	path = MASai-Application
+	url = https://github.com/thitiwutchm38/MASai-Application
